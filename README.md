@@ -1,7 +1,7 @@
 ## Contributing
 Please submit bug reports, suggestions, and pull requests to the [GitHub issue tracker](https://github.com/PHPMailer/PHPMailer/issues).
 
-We're particularly interested in fixing edge cases, expanding test coverage, and updating translations.
+We're particularly interested in fixing edge cases, expanding test coverage, and updating translations. Test for UbuntuServer
 
 If you found a mistake in the docs, or want to add something, go ahead and amend the wiki – anyone can edit it.
 
